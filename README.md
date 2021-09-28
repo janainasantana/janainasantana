@@ -4,7 +4,8 @@
 - 📧 Email: janacsantana@gmail.com
 - 😄 Pronomes: Ela/Dela
 </br></br>
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/janaina-c-santana/) &nbsp;&nbsp; [<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:janacsantana@gmail.com)
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/janaina-c-santana/)
+&nbsp;&nbsp; [<img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](mailto:janacsantana@gmail.com)
 </br></br>
 - 🎯 Participante do Programa Luiza &lt;Code&gt; - 3ª Edição
 </br></br>
