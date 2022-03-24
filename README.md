@@ -1,6 +1,6 @@
 ## Olá! Eu sou Janaina Santana 👋
 
-- 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 👩‍🎓 Análise e Desenvolvimento de Sistemas.
 - 📧 Email: janacsantana@gmail.com
 - 😄 Pronomes: Ela/Dela
 </br></br>
@@ -10,10 +10,9 @@
 - 🎯 Participante do Programa Luiza &lt;Code&gt; - 3ª Edição
 </br></br>
 - 🌱 Cursos livres na área de programação:
-  - Lógica de Programação I : Os Primeiros Programas com Javascript e HTML;
-  - Java Completo Programação Orientada a Objetos +Projetos (em progresso);
-  - JavaScript: Programando na linguagem da web (em progresso);
- </br></br>
+  - Lógica de Programação I : Os Primeiros Programas com Javascript e HTML - Alura;
+  - Algorítimos e Lógica - Udemy;
+   </br></br>
   <div style="display: inline_block"><br>
     <img align="center" alt="Janaina-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="Janaina-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
